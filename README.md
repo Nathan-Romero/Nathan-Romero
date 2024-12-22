@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Nathan 👋</h1>
+<h1 align="center">Hi there, I'm Nathan! 👋</h1>
 
-- 🌱 I’m currently studying Computer Science at Toronto Metropolitan University
-- 💬 Interests: Artificial Intelligence, Game Development, and Data Science
-- ⚡ Fun fact: I play the piano and guitar
+- 🌱 I’m currently a Computer Science Co-op Student at Toronto Metropolitan University
+- 💬 Interests: Machine Learning, Data Science, and Game Development
+- ⚡ Fun fact: I play piano and guitar
 - 📫 Contact me: [romero.na@outlook.com](mailto:romero.na@outlook.com)
 
 ### Languages, Frameworks, and Tools that I've Worked With
